@@ -1,1 +1,1 @@
-# MazeRunners
+#MazeGame
